@@ -31,7 +31,7 @@ The design specifications for the MechaCar suspension coils dictate that the var
 ![Sample T Test](https://github.com/jhuang2801/MechaCar_Statistical_Analysis/blob/main/images/Sample-T-test.PNG)
 ![Lot T Test](https://github.com/jhuang2801/MechaCar_Statistical_Analysis/blob/main/images/Lot-T-Test.PNG)
 
-- The p-value of 0.06028 is greater than the significance level at 0.05%, so it is not enough to reject the null hypothesis. Lot 1 has p-value at 1, which means it has the true sample mean of 1500 (no statistical difference). Lot 2 has p-value at 0.61 and sample mean at 1500.02, null hypothesis cannot be rejected. Lot 3 has p-value lower than 0.05 and sample mean at 1496.14, which means we can reject the null hypothesis.
+- The p-value of 0.06028 is greater than the significance level at 0.05%, so it is not enough to reject the null hypothesis. Lot 1 has p-value at 1, which means it has the true sample mean of 1500 (no statistical difference). Lot 2's p-value is at 0.61 and the sample mean is 1500.02, which means that the null hypothesis cannot be rejected. Lastly, Lot 3 has p-value lower than 0.05 and the sample mean at 1496.14, which means we can reject the null hypothesis.
 
 ## Study Design: MechaCar vs Competition
 
